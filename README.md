@@ -66,5 +66,3 @@ Si necesitas el modelo entrenado de cigarro, colocalo localmente como:
 ```text
 keys/smoking_best.pt
 ```
-
-No subas `.env`, `keys/`, `photos/` ni `hard_cases/`.
