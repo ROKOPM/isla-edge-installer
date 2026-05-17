@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.template
+keys/
+photos/
+hard_cases/
+*.log
+*.pid
+.DS_Store
+Thumbs.db
